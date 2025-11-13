@@ -1,0 +1,8 @@
+{
+  "name": "nmap-exploit-analyzer",
+  "buildCommand": "npm run build",
+  "outputDirectory": "dist",
+  "env": {
+    "CI": "true"
+  }
+}
